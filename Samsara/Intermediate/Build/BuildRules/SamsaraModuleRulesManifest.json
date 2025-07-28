@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Samsara\\Samsara\\Samsara\\Source\\Samsara\\Samsara.Build.cs",
+		"C:\\Samsara\\Samsara\\Samsara\\Source\\Samsara.Target.cs",
+		"C:\\Samsara\\Samsara\\Samsara\\Source\\SamsaraEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}

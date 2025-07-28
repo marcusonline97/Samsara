@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\samsara\\samsara\\samsara\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara\\uht\\combatenemyspawner.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\samsara\\samsara\\samsara\\intermediate\\build\\win64\\x64\\samsaraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\samsara\\samsara\\samsara\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\samsara\\definitions.samsara.h",
+            "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_combat\\ai\\combatenemyspawner.h",
+            "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_combat\\combatactivatable.h",
+            "c:\\samsara\\samsara\\samsara\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara\\uht\\combatactivatable.generated.h",
+            "c:\\samsara\\samsara\\samsara\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara\\uht\\combatenemyspawner.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
