@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Samsara/Samsara/Samsara/Content/TempLvl.umap",
+				"C:/Samsara/Samsara/Samsara/Content/LAN/WBP_LANMenu.uasset",
+				"C:/Samsara/Samsara/Samsara/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Samsara/Samsara/Samsara/Content/Input/Actions/IA_Quit.uasset",
+				"C:/Samsara/Samsara/Samsara/Content/Input/IMC_Default.uasset",
+				"C:/Samsara/Samsara/Samsara/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Samsara/Samsara/Samsara/Content/Input/Actions/IA_BugReport.uasset"
+			]
+		}
+	]
+}

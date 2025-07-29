@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SamsaraModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ffd38fa2a7684473623691b10c938f08bdf8e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3058819b36576d0f523a08e422910dd06db4d5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SamsaraModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SamsaraModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
