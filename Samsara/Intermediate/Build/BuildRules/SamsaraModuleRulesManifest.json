@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"C:\\Samsara\\Samsara\\Samsara\\Source\\Samsara\\Samsara.Build.cs",
+		"C:\\Samsara\\Samsara\\Samsara\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
 		"C:\\Samsara\\Samsara\\Samsara\\Source\\Samsara.Target.cs",
 		"C:\\Samsara\\Samsara\\Samsara\\Source\\SamsaraEditor.Target.cs"
 	],
