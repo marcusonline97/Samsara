@@ -29,7 +29,6 @@
 			"PlatformingCharacter.gen.cpp.obj",
 			"PlatformingGameMode.gen.cpp.obj",
 			"PlatformingPlayerController.gen.cpp.obj",
-			"Samsara.init.gen.cpp.obj",
 			"SamsaraCharacter.gen.cpp.obj",
 			"SamsaraGameMode.gen.cpp.obj",
 			"SamsaraPlayerController.gen.cpp.obj",
@@ -77,13 +76,16 @@
 			"PlatformingGameMode.cpp.obj",
 			"PlatformingPlayerController.cpp.obj",
 			"SideScrollingAIController.cpp.obj",
+			"Samsara.init.gen.cpp.obj",
+			"Samsara_Actor.gen.cpp.obj",
+			"Samsara_Actor.cpp.obj"
+		],
+		"Module.Samsara.3.cpp.obj": [
 			"SideScrollingNPC.cpp.obj",
 			"SideScrollingStateTreeUtility.cpp.obj",
 			"SideScrollingJumpPad.cpp.obj",
 			"SideScrollingMovingPlatform.cpp.obj",
-			"SideScrollingPickup.cpp.obj"
-		],
-		"Module.Samsara.3.cpp.obj": [
+			"SideScrollingPickup.cpp.obj",
 			"SideScrollingSoftPlatform.cpp.obj",
 			"SideScrollingCameraManager.cpp.obj",
 			"SideScrollingCharacter.cpp.obj",

@@ -105,7 +105,6 @@
             "c:\\samsara\\samsara\\samsara\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara\\uht\\platformingplayercontroller.gen.cpp",
             "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_platforming\\platformingplayercontroller.h",
             "c:\\samsara\\samsara\\samsara\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara\\uht\\platformingplayercontroller.generated.h",
-            "c:\\samsara\\samsara\\samsara\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara\\uht\\samsara.init.gen.cpp",
             "c:\\samsara\\samsara\\samsara\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara\\uht\\samsaracharacter.gen.cpp",
             "c:\\samsara\\samsara\\samsara\\source\\samsara\\samsaracharacter.h",
             "c:\\samsara\\samsara\\samsara\\intermediate\\build\\win64\\unrealeditor\\inc\\samsara\\uht\\samsaracharacter.generated.h",
@@ -418,14 +417,7 @@
             "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_platforming\\platformingcharacter.cpp",
             "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_platforming\\platforminggamemode.cpp",
             "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_platforming\\platformingplayercontroller.cpp",
-            "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_sidescrolling\\ai\\sidescrollingaicontroller.cpp",
-            "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_sidescrolling\\ai\\sidescrollingnpc.cpp",
-            "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_sidescrolling\\ai\\sidescrollingstatetreeutility.cpp",
-            "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_sidescrolling\\gameplay\\sidescrollingjumppad.cpp",
-            "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_sidescrolling\\gameplay\\sidescrollingmovingplatform.cpp",
-            "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_sidescrolling\\gameplay\\sidescrollingpickup.cpp",
-            "c:\\unreal\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
-            "c:\\unreal\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+            "c:\\samsara\\samsara\\samsara\\source\\samsara\\variant_sidescrolling\\ai\\sidescrollingaicontroller.cpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
