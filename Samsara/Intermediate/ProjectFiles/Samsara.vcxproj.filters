@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Samsara.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Samsara.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SamsaraEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MultiplayerSessions">
+      <UniqueIdentifier>{B376FBB0-9029-37B4-9E5C-F55FC20DD6CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MultiplayerSessions\Source">
+      <UniqueIdentifier>{CAE7E189-351A-3AEF-AA65-9181E027D3DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MultiplayerSessions\Source\MultiplayerSessions">
+      <UniqueIdentifier>{A1318B81-C725-3B17-85AD-D8AD905147BF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\MultiplayerSessions.Build.cs">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions</Filter>
+    </None>
+    <Filter Include="Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private">
+      <UniqueIdentifier>{AEFBA6C3-EAEC-3E6A-BF0E-6FC82FC81BDA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\Menu.cpp">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\MultiplayerSessions.cpp">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\MultiplayerSessionsSubsystem.cpp">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public">
+      <UniqueIdentifier>{B8A815AB-71EA-30D3-AAE7-E5C007BDC21C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\Menu.h">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\MultiplayerSessions.h">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public\MultiplayerSessionsSubsystem.h">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\MultiplayerSessions\MultiplayerSessions.uplugin">
+      <Filter>Plugins\MultiplayerSessions</Filter>
+    </None>
+    <Filter Include="Plugins\MultiplayerSessions\Resources">
+      <UniqueIdentifier>{309C2CD4-0086-329B-99DB-BDFA765BCE16}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MultiplayerSessions\Resources\Icon128.png">
+      <Filter>Plugins\MultiplayerSessions\Resources</Filter>
+    </None>
+    <Filter Include="Source\Samsara">
+      <UniqueIdentifier>{E73DF151-B558-3648-8B69-198D7D59EF09}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Samsara\Samsara.Build.cs">
+      <Filter>Source\Samsara</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Samsara\Samsara.cpp">
+      <Filter>Source\Samsara</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Samsara.h">
+      <Filter>Source\Samsara</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\SamsaraCharacter.cpp">
+      <Filter>Source\Samsara</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\SamsaraCharacter.h">
+      <Filter>Source\Samsara</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\SamsaraGameMode.cpp">
+      <Filter>Source\Samsara</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\SamsaraGameMode.h">
+      <Filter>Source\Samsara</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\SamsaraPlayerController.cpp">
+      <Filter>Source\Samsara</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\SamsaraPlayerController.h">
+      <Filter>Source\Samsara</Filter>
+    </ClInclude>
+    <Filter Include="Source\Samsara\Actors">
+      <UniqueIdentifier>{FE3A7719-7D5B-3577-98CC-34914F70C260}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Samsara\Actors\Samsara_Actor.cpp">
+      <Filter>Source\Samsara\Actors</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Actors\Samsara_Actor.h">
+      <Filter>Source\Samsara\Actors</Filter>
+    </ClInclude>
+    <Filter Include="Source\Samsara\Lan">
+      <UniqueIdentifier>{B9175C15-22E0-3B0C-AB6D-072126247840}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Samsara\Lan\LanMenu.cpp">
+      <Filter>Source\Samsara\Lan</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Lan\LanMenu.h">
+      <Filter>Source\Samsara\Lan</Filter>
+    </ClInclude>
+    <Filter Include="Source\Samsara\Utility">
+      <UniqueIdentifier>{7B663684-0BC9-31EC-89ED-95C3056245AF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Samsara\Utility\Multiplayer_Utils.cpp">
+      <Filter>Source\Samsara\Utility</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Utility\Multiplayer_Utils.h">
+      <Filter>Source\Samsara\Utility</Filter>
+    </ClInclude>
+    <Filter Include="Source\Samsara\Variant_Combat">
+      <UniqueIdentifier>{AF97F919-0A5E-3DBB-9F71-A9E96BD7D7A9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\AnimNotify_CheckCombo.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatActivatable.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatActivatable.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatActivationVolume.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatActivationVolume.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatAttacker.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatAttacker.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatCheckpointVolume.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatCheckpointVolume.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatDamageable.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatDamageable.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatDamageableBox.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatDamageableBox.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatDummy.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatDummy.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatLavaFloor.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatLavaFloor.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatLifeBar.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatLifeBar.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\Samsara\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\Samsara\Variant_Combat\AI">
+      <UniqueIdentifier>{3E29E89F-C50C-308B-A4C6-B7AE6BC64A0F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\Samsara\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\Samsara\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\Samsara\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\Samsara\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\Samsara\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\Samsara\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\Samsara\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\Samsara\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\Samsara\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\Samsara\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Samsara\Variant_Platforming">
+      <UniqueIdentifier>{0214F0AB-4BFD-3798-8690-A262EAB231C4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Platforming\AnimNotify_EndDash.cpp">
+      <Filter>Source\Samsara\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Platforming\AnimNotify_EndDash.h">
+      <Filter>Source\Samsara\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\Samsara\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\Samsara\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\Samsara\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\Samsara\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\Samsara\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\Samsara\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\Samsara\Variant_SideScrolling">
+      <UniqueIdentifier>{BF32C84E-A2EF-36CB-8D91-A349D0991B88}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingCPP.Build.cs">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingInteractable.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingInteractable.h">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingUI.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\SideScrollingUI.h">
+      <Filter>Source\Samsara\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\Samsara\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{20557F2A-BAF4-35D9-BD0B-C983DFABCFB1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\Samsara\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\Samsara\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\Samsara\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Samsara\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{86FACD83-9183-3753-920C-ACF1E1BAF3DA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\Samsara\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\Samsara\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\Samsara\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Samsara\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\Samsara\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Samsara\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\Samsara\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
