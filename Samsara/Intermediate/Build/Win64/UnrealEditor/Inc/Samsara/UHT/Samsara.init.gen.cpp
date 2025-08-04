@@ -21,13 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeSamsara_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xD1820496,
-				0xBE6E183B,
+				0x682C0BE4,
+				0xA4FFA90F,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_Samsara.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_Samsara.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Samsara(Z_Construct_UPackage__Script_Samsara, TEXT("/Script/Samsara"), Z_Registration_Info_UPackage__Script_Samsara, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xD1820496, 0xBE6E183B));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Samsara(Z_Construct_UPackage__Script_Samsara, TEXT("/Script/Samsara"), Z_Registration_Info_UPackage__Script_Samsara, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x682C0BE4, 0xA4FFA90F));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
