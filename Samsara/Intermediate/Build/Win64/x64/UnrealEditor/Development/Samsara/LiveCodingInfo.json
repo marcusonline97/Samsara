@@ -29,9 +29,11 @@
 			"PlatformingCharacter.gen.cpp.obj",
 			"PlatformingGameMode.gen.cpp.obj",
 			"PlatformingPlayerController.gen.cpp.obj",
+			"Samsara.init.gen.cpp.obj",
 			"SamsaraCharacter.gen.cpp.obj",
 			"SamsaraGameMode.gen.cpp.obj",
 			"SamsaraPlayerController.gen.cpp.obj",
+			"Samsara_Actor.gen.cpp.obj",
 			"SideScrollingAIController.gen.cpp.obj",
 			"SideScrollingCameraManager.gen.cpp.obj",
 			"SideScrollingCharacter.gen.cpp.obj",
@@ -46,6 +48,7 @@
 			"SideScrollingStateTreeUtility.gen.cpp.obj",
 			"SideScrollingUI.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
+			"Samsara_Actor.cpp.obj",
 			"LanMenu.cpp.obj",
 			"Samsara.cpp.obj",
 			"SamsaraCharacter.cpp.obj",
@@ -75,10 +78,7 @@
 			"PlatformingCharacter.cpp.obj",
 			"PlatformingGameMode.cpp.obj",
 			"PlatformingPlayerController.cpp.obj",
-			"SideScrollingAIController.cpp.obj",
-			"Samsara.init.gen.cpp.obj",
-			"Samsara_Actor.gen.cpp.obj",
-			"Samsara_Actor.cpp.obj"
+			"SideScrollingAIController.cpp.obj"
 		],
 		"Module.Samsara.3.cpp.obj": [
 			"SideScrollingNPC.cpp.obj",
