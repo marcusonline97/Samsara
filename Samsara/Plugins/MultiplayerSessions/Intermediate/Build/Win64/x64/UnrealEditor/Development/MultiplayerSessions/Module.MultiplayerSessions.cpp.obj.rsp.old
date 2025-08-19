@@ -1,12 +1,12 @@
-"C:/Practice/MP_Test/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/Module.MultiplayerSessions.cpp"
-@"C:/Practice/MP_Test/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/MultiplayerSessions.Shared.rsp"
-/FI"C:/Practice/MP_Test/Intermediate/Build/Win64/x64/MP_TestEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/FI"C:/Practice/MP_Test/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/Definitions.MultiplayerSessions.h"
-/Yu"C:/Practice/MP_Test/Intermediate/Build/Win64/x64/MP_TestEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-/Fp"C:/Practice/MP_Test/Intermediate/Build/Win64/x64/MP_TestEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
-/Fo"C:/Practice/MP_Test/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/Module.MultiplayerSessions.cpp.obj"
-/experimental:log "C:/Practice/MP_Test/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/Module.MultiplayerSessions.cpp.sarif"
-/sourceDependencies "C:/Practice/MP_Test/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/Module.MultiplayerSessions.cpp.dep.json"
+"C:/Samsara/Samsara/Samsara/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/Module.MultiplayerSessions.cpp"
+@"C:/Samsara/Samsara/Samsara/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/MultiplayerSessions.Shared.rsp"
+/FI"C:/Samsara/Samsara/Samsara/Intermediate/Build/Win64/x64/SamsaraEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Samsara/Samsara/Samsara/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/Definitions.MultiplayerSessions.h"
+/Yu"C:/Samsara/Samsara/Samsara/Intermediate/Build/Win64/x64/SamsaraEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Samsara/Samsara/Samsara/Intermediate/Build/Win64/x64/SamsaraEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Samsara/Samsara/Samsara/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/Module.MultiplayerSessions.cpp.obj"
+/experimental:log "C:/Samsara/Samsara/Samsara/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/Module.MultiplayerSessions.cpp.sarif"
+/sourceDependencies "C:/Samsara/Samsara/Samsara/Plugins/MultiplayerSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/MultiplayerSessions/Module.MultiplayerSessions.cpp.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
